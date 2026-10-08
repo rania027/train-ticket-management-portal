@@ -1,0 +1,14 @@
+Drop your train photos in this folder with these exact names:
+
+  hero.jpg      wide landscape photo for the home page banner
+  train-1.jpg   route card photos (6 of them; they repeat across the 10 routes)
+  train-2.jpg
+  train-3.jpg
+  train-4.jpg
+  train-5.jpg
+  train-6.jpg
+
+Tips: about 1200px wide, under 300 KB each. Use photos you own or that are free
+for commercial use (Unsplash, Pexels, Wikimedia Commons) and check each license.
+Until a photo is added, the site shows a blue gradient / illustration instead.
+You can delete this text file afterwards.
